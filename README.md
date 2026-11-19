@@ -36,7 +36,7 @@
 Open to collaborations, discussions, and connecting with fellow developers!
 
 
-<a href="https://t.me/Shark1ch">
+<a href="https://t.me/Shark1chs">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&border_color=58A6FF&border_radius=8" />
 </a>
 <a href="https://discord.gg/waw_shark1">
